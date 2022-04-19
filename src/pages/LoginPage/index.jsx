@@ -33,7 +33,7 @@ const LoginPage = () => {
                 </div>
 
                 <div className="actions">
-                    <button onClick={handleLogin()}>Entrar</button>
+                    <button onClick={handleLogin}>ENTER</button>
                 </div>
             </div>
         </div >
